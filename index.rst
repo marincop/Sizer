@@ -6,7 +6,7 @@
   :name: _exercises_and_labs
   :hidden:
 
-  what_is_sizer/what_is_sizer
+  
   lab_intro_to_sizer/lab_intro_to_sizer
   rvtools/rvtools
   live_optics/live_optics
